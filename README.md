@@ -1,4 +1,4 @@
-# CIVIC PULSE
+# CivicPulse: Cloud-Based Community Infrastructure Monitoring System
 
 ## Project Description
 CivicPulse is a cloud-based platform designed to monitor and manage local infrastructure issues such as water interruptions, power outages, road damage, and waterlogging. It allows residents to report issues with images and locations, verify reports, and track their status. The platform uses AWS services for secure storage, scalability, and reliable performance.
